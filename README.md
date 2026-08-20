@@ -32,7 +32,7 @@ Flutter admin app for platform oversight: user/partner approval, order and store
 ### Prerequisites
 
 - Flutter SDK (stable channel)
-- The [backend](../../grocery-backend) running and reachable from your device/emulator
+- The [backend](../../../grocery_backend) running and reachable from your device/emulator
 - An existing admin-role account in the database (admin accounts aren't self-registered through this app — seed one directly, or promote an existing user's role via the backend)
 
 ### Setup
@@ -45,7 +45,7 @@ flutter pub get
 
 ### Backend connection
 
-Set the API base URL for your target platform — see the equivalent section in the [customer app README](../../grocery_frontend_customer#backend-connection) for the exact pattern used across all four apps.
+Set the API base URL for your target platform — see the equivalent section in the [customer app README](../../../grocery_frontend_customer#backend-connection) for the exact pattern used across all four apps.
 
 ### Run
 
