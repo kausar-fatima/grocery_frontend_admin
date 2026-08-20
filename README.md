@@ -8,10 +8,10 @@ Flutter admin app for platform oversight: user/partner approval, order and store
 
 | App | Description |
 |---|---|
-| [grocery-backend](../../grocery-backend) | NestJS API powering the whole platform |
-| [grocery_frontend_customer](../../grocery_frontend_customer) | Customer shopping app |
-| [grocery_frontend_store](../../grocery_frontend_store) | Store/partner management app |
-| [grocery_frontend_rider](../../grocery_frontend_rider) | Rider delivery app |
+| [grocery_backend](../../../grocery_backend) | NestJS API powering the whole platform |
+| [grocery_frontend_customer](../../../grocery_frontend_customer) | Customer shopping app |
+| [grocery_frontend_store](../../../grocery_frontend_store) | Store/partner management app |
+| [grocery_frontend_rider](../../../grocery_frontend_rider) | Rider delivery app |
 
 ## Features
 
