@@ -1,5 +1,4 @@
 <!-- ASSUMPTIONS: repo name grocery_frontend_admin; adjust links if names differ -->
-
 # Fresh Grocery — Admin Console
 
 Flutter admin app for platform oversight: user/partner approval, order and store visibility, promotions management, and platform stats.
@@ -57,11 +56,11 @@ flutter run
 
 ```
 lib/
-├── core/            # network, theme
-├── data/            # API clients, models
-├── logic/           # Cubits (state management)
-├── presentation/       # screens and widgets (stats, users, promotions, orders)
-└── routes/           # go_router configuration
+├── core/ # network, theme
+├── data/ # API clients, models
+├── logic/ # Cubits (state management)
+├── presentation/ # screens and widgets (stats, users, promotions, orders)
+└── routes/ # go_router configuration
 ```
 
 ## License
